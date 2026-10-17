@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Pagina-1" id="m4MRTQaqMlSuLiWbO_o4">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rPmavxUkNzikIbn2ilej-1" parent="1" style="shape=mermaidUsecaseActor;actorType=normal;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="" vertex="1">
+          <mxGeometry height="72" width="56" x="180" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="rPmavxUkNzikIbn2ilej-2" parent="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Gestore" vertex="1">
+          <mxGeometry height="28" width="56" x="180" y="282" as="geometry" />
+        </mxCell>
+        <mxCell id="rPmavxUkNzikIbn2ilej-5" parent="1" style="ellipse;html=1;whiteSpace=wrap;" value="Aggiungi&lt;div&gt;Computer&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="350" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rPmavxUkNzikIbn2ilej-6" parent="1" style="ellipse;html=1;whiteSpace=wrap;" value="Rimuovi&lt;div&gt;Computer&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="350" y="226" as="geometry" />
+        </mxCell>
+        <mxCell id="rPmavxUkNzikIbn2ilej-7" parent="1" style="ellipse;html=1;whiteSpace=wrap;" value="Ricerca&lt;div&gt;Per Codice&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="350" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rPmavxUkNzikIbn2ilej-8" parent="1" style="ellipse;html=1;whiteSpace=wrap;" value="Cerca&lt;div&gt;Migliori&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="350" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="rPmavxUkNzikIbn2ilej-19" edge="1" parent="1" source="rPmavxUkNzikIbn2ilej-1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rPmavxUkNzikIbn2ilej-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="240" as="sourcePoint" />
+            <mxPoint x="580" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rPmavxUkNzikIbn2ilej-20" edge="1" parent="1" source="rPmavxUkNzikIbn2ilej-1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rPmavxUkNzikIbn2ilej-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="249" as="sourcePoint" />
+            <mxPoint x="434" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rPmavxUkNzikIbn2ilej-21" edge="1" parent="1" source="rPmavxUkNzikIbn2ilej-1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rPmavxUkNzikIbn2ilej-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="359" as="sourcePoint" />
+            <mxPoint x="464" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rPmavxUkNzikIbn2ilej-22" edge="1" parent="1" source="rPmavxUkNzikIbn2ilej-1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rPmavxUkNzikIbn2ilej-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="330" as="sourcePoint" />
+            <mxPoint x="454" y="397" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
