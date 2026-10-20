@@ -1,0 +1,52 @@
+IDE & CLion
+
+.idea/
+*.iws
+*.iml
+.ipr
+cmake-build-/
+
+Build & Compilation
+
+build/
+bin/
+out/
+dist/
+
+Object, Library & Executable Files
+
+*.o
+*.obj
+*.so
+.so.
+*.a
+*.lib
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+CMake
+
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+System & Debug
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*~
+.directory
+*.log
+*.dSYM/
